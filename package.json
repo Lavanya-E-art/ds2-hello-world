@@ -1,0 +1,12 @@
+{
+  "name": "ds2-hello-world-node",
+  "version": "1.0.0",
+  "description": "DS2 Node.js Hello World App",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
