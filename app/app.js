@@ -4,7 +4,7 @@ const PORT = 8080;
 
 // Main endpoint
 app.get('/', (req, res) => {
-    res.send('Hello World from DS2 (Node.js)! - Testing the CI/CD changes');
+    res.send('Hello World from DS2 (Node.js)! - Pipeline Testing');
 });
 
 // Health check endpoint for Docker/CI-CD
