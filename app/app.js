@@ -192,7 +192,7 @@ app.get('/', (req, res) => {
 
         <main>
             <div class="welcome-card">
-                <h2>Welcome to Sample Project!</h2>
+                <h2>Welcome to DS2 Project!</h2>
                 <p class="subtitle">
                     This Node.js & Express application was dynamically compiled, tested, and deployed entirely automatically using an end-to-end GitOps CI/CD pipeline.
                 </p>
